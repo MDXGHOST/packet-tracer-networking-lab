@@ -6,8 +6,8 @@ This project demonstrates a basic network setup using 4 PCs, 2 switches, and 1 r
 ## Network Design
 Two separate networks were created:
 
-- Network 1: 192.168.1.0/24  
-- Network 2: 192.168.2.0/24  
+- Network 1: 192.168.1.1/24  
+- Network 2: 192.168.2.1/24  
 
 ## IP Addressing
 
