@@ -31,3 +31,7 @@ The router was configured with two interfaces:
 
 ## Tools Used
 - Cisco Packet Tracer
+
+## Screenshot
+
+<img width="1917" height="1028" alt="Screenshot 2026-04-09 230026" src="https://github.com/user-attachments/assets/aa851e9e-45a1-49c7-933a-1c5298df74e0" />
